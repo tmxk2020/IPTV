@@ -1,4 +1,191 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1,tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://epg.v1.mk/logo/CCTV4K超高清.png" group-title="4K",CCTV-4K超高清
+http://113.227.34.29:9001/stream/channelid/1278480797?ticket=cfd449efcb51247b4253cd92c1c82f06fe469535&profile=pass
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K",CCTV-16超高清
+http://113.227.34.29:9001/stream/channelid/67121335?ticket=4281deb5f8df3df2aeff68ebed5dc57665631d34&profile=pass
+#EXTINF:-1,tvg-id="北京卫视4" tvg-name="北京卫视4" tvg-logo="https://epg.v1.mk/logo/北京卫视4.png" group-title="4K",北京卫视4K超高清
+http://113.227.34.29:9001/stream/channelid/1281144721?ticket=f19070a326ced9b9b33858812f2b0fed4f5818ca&profile=pass
+#EXTINF:-1,tvg-id="深圳卫视4" tvg-name="深圳卫视4" tvg-logo="https://epg.v1.mk/logo/深圳卫视4.png" group-title="4K",深圳卫视4K超高清
+http://113.227.34.29:9001/stream/channelid/1624498488?ticket=ff30f18a2e3a798fb38bfe629bd4c1699a9cb71b&profile=pass
+#EXTINF:-1,tvg-id="广东卫视4" tvg-name="广东卫视4" tvg-logo="https://epg.v1.mk/logo/广东卫视4.png" group-title="4K",广东卫视4K超高清
+http://113.227.34.29:9001/stream/channelid/575159774?ticket=cc80af5cbd85f2c1f0cda63a55af68b500b7bb7b&profile=pass
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1HD
+http://113.227.34.29:9001/stream/channelid/1414132223?ticket=bdc1d24c943f16b3fc0d4ec663e8d75a4e0f6cfa&profile=pass
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视HD
+http://113.227.34.29:9001/stream/channelid/1844355702?ticket=fc5ea58b332cb62a8394c95df655150f04682ffd&profile=pass
+#EXTINF:-1,tvg-id="大连1-新闻综合" tvg-name="大连1-新闻综合" tvg-logo="https://epg.v1.mk/logo/大连1-新闻综合.png" group-title="其他",大连新闻综合HD
+http://113.227.34.29:9001/stream/channelid/1623012372?ticket=2ea0e30510e9514b67e6bd4dfd640b3415e7db4f&profile=pass
+#EXTINF:-1,tvg-id="4k超高清" tvg-name="4k超高清" tvg-logo="https://epg.v1.mk/logo/4k超高清.png" group-title="其他",高清导视HD
+http://113.227.34.29:9001/stream/channelid/1343626856?ticket=734f16f36773cfff4e6de90ebd403ebd60a5834d&profile=pass
+#EXTINF:-1,tvg-id="大连1-新闻综合" tvg-name="大连1-新闻综合" tvg-logo="https://epg.v1.mk/logo/大连1-新闻综合.png" group-title="其他",大连乐天购物HD
+http://113.227.34.29:9001/stream/channelid/278861242?ticket=ed963c01c612634fbb4136c2fb31c3471775c0e8&profile=pass
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2HD
+http://113.227.34.29:9001/stream/channelid/239186323?ticket=192b70727f1092fdeffbb4826c35f8401645a34b&profile=pass
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3HD
+http://113.227.34.29:9001/stream/channelid/979833871?ticket=2272698a356c5a4dfeed5516c75d281188688c5a&profile=pass
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4HD
+http://113.227.34.29:9001/stream/channelid/1738092205?ticket=5b8d219a32b364c38f492dcbc5f10f7000fe743e&profile=pass
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5HD
+http://113.227.34.29:9001/stream/channelid/1798402438?ticket=a6d0896e10a275cc0a58ae3fd36e80b6679dc920&profile=pass
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6HD
+http://113.227.34.29:9001/stream/channelid/1668671068?ticket=b7a68a41060a9ad6130a8bd9a20236d8bda8a6b8&profile=pass
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7HD
+http://113.227.34.29:9001/stream/channelid/2052796447?ticket=24ce61fbe2611ed093fc3106fe7838335bcb18f1&profile=pass
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8HD
+http://113.227.34.29:9001/stream/channelid/1674640158?ticket=6228309ffb9c32be9aa671a1a14f5cba8c2da0a9&profile=pass
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9HD
+http://113.227.34.29:9001/stream/channelid/353111620?ticket=9d9d3fe829016ad5e9b8d32acff45cca5e4ca245&profile=pass
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-10HD
+http://113.227.34.29:9001/stream/channelid/116444111?ticket=c8cce60c9f0b764cfd1c0ae7587efdc3355f3832&profile=pass
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-11HD
+http://113.227.34.29:9001/stream/channelid/437528638?ticket=a63e67c801f4bf726217ec86b742928c49dc9544&profile=pass
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12HD
+http://113.227.34.29:9001/stream/channelid/161189617?ticket=51c8bc52e651f1ae727dd6ee6e7759f2c68cdf7e&profile=pass
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-13HD
+http://113.227.34.29:9001/stream/channelid/567568730?ticket=3e9491ce3115ec5151f907cb1ea1ae8d3f861d7a&profile=pass
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-14HD
+http://113.227.34.29:9001/stream/channelid/1314109008?ticket=70bc3a3d7a044a07e594a565ad3e1a84f05cef2e&profile=pass
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-15HD
+http://113.227.34.29:9001/stream/channelid/2073435742?ticket=7a5beb7dd2fdde1f1f897b9eafbd089858d5bef1&profile=pass
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16HD
+http://113.227.34.29:9001/stream/channelid/235769001?ticket=580e8a5e4a96a69f3a19e84d15bf3ba93eea905b&profile=pass
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17HD
+http://113.227.34.29:9001/stream/channelid/1832838345?ticket=2e39e2b8f3ab97623c1edbc5bf2f611f568be3a9&profile=pass
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典HD
+http://113.227.34.29:9001/stream/channelid/2093344204?ticket=27ce9efbb41bc31aeeca02a8c386433d4ac83fff&profile=pass
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视HD
+http://113.227.34.29:9001/stream/channelid/1350918574?ticket=5bbc922d9bc1cb530bfe886f851c38c5f0c4c7d9&profile=pass
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视HD
+http://113.227.34.29:9001/stream/channelid/1901868520?ticket=f34ed52d8286aa5ca0ccf166dc2d1d8079f2ff93&profile=pass
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视HD
+http://113.227.34.29:9001/stream/channelid/868292494?ticket=2fe6bf88f5d6dba6d0e9b0069d5cd62e8fd468c6&profile=pass
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视HD
+http://113.227.34.29:9001/stream/channelid/1646091226?ticket=808fddea2092032fe2adf7ef69a86492d2258be8&profile=pass
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视HD
+http://113.227.34.29:9001/stream/channelid/897274066?ticket=69edbe6f12380be718ad64d65150015cf8c6d62e&profile=pass
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视HD
+http://113.227.34.29:9001/stream/channelid/79990322?ticket=313c16f658271dbc734687467c96bd2fb78fee3b&profile=pass
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视HD
+http://113.227.34.29:9001/stream/channelid/1092405527?ticket=97f6e00898b9a091c570d210ee625665e4c53aad&profile=pass
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视HD
+http://113.227.34.29:9001/stream/channelid/1871565279?ticket=91713165b745a621ec07a7e712a5794535bf5dd3&profile=pass
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视HD
+http://113.227.34.29:9001/stream/channelid/632709980?ticket=9771380b98d0fee67549f1d796f8338e1aa33e26&profile=pass
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视HD
+http://113.227.34.29:9001/stream/channelid/368783447?ticket=db308768f9a650c4a736c99f7ede5c99f075e1c2&profile=pass
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视HD
+http://113.227.34.29:9001/stream/channelid/1202654645?ticket=714d472770d0e8ef84797cd84c24c4643e08d24f&profile=pass
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视HD
+http://113.227.34.29:9001/stream/channelid/218500068?ticket=f1f241e9959cbb6b1762ca032287178f2cc7fd72&profile=pass
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视HD
+http://113.227.34.29:9001/stream/channelid/738770837?ticket=1fac7f452ab51b266c41da933f51081742e55e8c&profile=pass
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视HD
+http://113.227.34.29:9001/stream/channelid/403450383?ticket=0ab3cac517032622cff60f62e4b71906056a0207&profile=pass
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视HD
+http://113.227.34.29:9001/stream/channelid/571536411?ticket=18fe347fed44a36e645f6c0762e2012f85ad665c&profile=pass
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视HD
+http://113.227.34.29:9001/stream/channelid/1979763610?ticket=39f9e36e409dea2ab5010af989bcdd8de96ce159&profile=pass
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视HD
+http://113.227.34.29:9001/stream/channelid/1016267478?ticket=81fb1cfec5609cd1203eb885ecf5ce803ce4ac16&profile=pass
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视HD
+http://113.227.34.29:9001/stream/channelid/281139915?ticket=d2ac4293560c0bbc97af9785f0b0be0ac16a9b7d&profile=pass
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他",卡酷少儿HD
+http://113.227.34.29:9001/stream/channelid/2146486237?ticket=4a7cd98e8408e55d316b468f4ce5ac2ae5c21e81&profile=pass
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视HD
+http://113.227.34.29:9001/stream/channelid/1499232721?ticket=c78c777a69c72d9733ab3a856b7ace9103b74feb&profile=pass
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视HD
+http://113.227.34.29:9001/stream/channelid/689174993?ticket=a3655bf54f07dd2dad11aeab20d68d1c83b2390d&profile=pass
+#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.v1.mk/logo/BRTV纪实科教.png" group-title="其他",BRTV纪实科教HD
+http://113.227.34.29:9001/stream/channelid/934058458?ticket=bfa41f42141854f69984fb6df87346a75d66e160&profile=pass
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视HD
+http://113.227.34.29:9001/stream/channelid/545078?ticket=bee76b6335ad02cae6026f56874792252146b55a&profile=pass
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视HD
+http://113.227.34.29:9001/stream/channelid/83761451?ticket=c18054eb988c003231a8901d2ed2dfaca8e1ed4b&profile=pass
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视HD
+http://113.227.34.29:9001/stream/channelid/375346832?ticket=06e307eca9d67815022e298e93c58a14d255f698&profile=pass
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视HD
+http://113.227.34.29:9001/stream/channelid/1209839995?ticket=14f23495df9e19288fac401b302fa6334b5aa006&profile=pass
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视HD
+http://113.227.34.29:9001/stream/channelid/44367164?ticket=7285d39da1062132e4fe048fd90d5a0456cfaf19&profile=pass
+#EXTINF:-1,tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧.png" group-title="辽宁",辽宁影视剧HD
+http://113.227.34.29:9001/stream/channelid/61101877?ticket=f990b7760aa44f33a08b7cb692ec2f4a143c4264&profile=pass
+#EXTINF:-1,tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://epg.v1.mk/logo/辽宁教育青少.png" group-title="辽宁",辽宁教育青少HD
+http://113.227.34.29:9001/stream/channelid/1131232840?ticket=e4ed6bc02f1c8b4db4fac19798182442bc924b10&profile=pass
+#EXTINF:-1,tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://epg.v1.mk/logo/辽宁公共.png" group-title="辽宁",辽宁公共HD
+http://113.227.34.29:9001/stream/channelid/2145727742?ticket=65fa9334c6c5cd79cfcf9ae206975e836b01a4e5&profile=pass
+#EXTINF:-1,tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://epg.v1.mk/logo/辽宁经济.png" group-title="辽宁",辽宁经济HD
+http://113.227.34.29:9001/stream/channelid/1689553887?ticket=d3b37cee08e2dd7133cd1cb9f3b8b271f9b95ca1&profile=pass
+#EXTINF:-1,tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://epg.v1.mk/logo/辽宁北方.png" group-title="辽宁",辽宁北方HD
+http://113.227.34.29:9001/stream/channelid/1410270885?ticket=62f5288087a7f37b0e91deb2387aa8e2f1c6a5c4&profile=pass
+#EXTINF:-1,tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://epg.v1.mk/logo/辽宁生活.png" group-title="辽宁",辽宁生活HD
+http://113.227.34.29:9001/stream/channelid/1623550259?ticket=b1319056ff5d7858ebf693df36bbf17d222cefae&profile=pass
+#EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市.png" group-title="辽宁",辽宁都市HD
+http://113.227.34.29:9001/stream/channelid/1564218621?ticket=a5855a65542d9e4ada3e6e3841d1656924770f93&profile=pass
+#EXTINF:-1,tvg-id="辽宁体育A" tvg-name="辽宁体育A" tvg-logo="https://epg.v1.mk/logo/辽宁体育A.png" group-title="辽宁",辽宁体育休闲HD
+http://113.227.34.29:9001/stream/channelid/1595884813?ticket=6b7d5cd4ba6f83c5dc450c47287cc7328470d42d&profile=pass
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育1HD
+http://113.227.34.29:9001/stream/channelid/1140238217?ticket=e8f7957ef9ff9a1170fe0ecaf2e7dab5586e4378&profile=pass
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV-4HD
+http://113.227.34.29:9001/stream/channelid/515380455?ticket=f32c3aaf0249a47193491d8b0cab58e69e3485b6&profile=pass
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5+
+http://113.227.34.29:9001/stream/channelid/89976385?ticket=55a306c52dedc909936d2246e62693a727ebbc11&profile=pass
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="其他",东方财经HD
+http://113.227.34.29:9001/stream/channelid/711448415?ticket=ec94fd5a6c7b0215b75cb044dfc2470429250dc0&profile=pass
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球HD
+http://113.227.34.29:9001/stream/channelid/1602047296?ticket=72219302a92a294706d2f274b98ac82d08f4fb11&profile=pass
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.v1.mk/logo/游戏风云.png" group-title="其他",游戏风云HD
+http://113.227.34.29:9001/stream/channelid/623236822?ticket=20aae0fda8a1c29a2f97a92341cc5406c6a9b71d&profile=pass
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="其他",风云足球HD
+http://113.227.34.29:9001/stream/channelid/1222999044?ticket=1ed438ee4b44e2e51ac97328eafda4959f3bf556&profile=pass
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="其他",高尔夫网球HD
+http://113.227.34.29:9001/stream/channelid/1651078598?ticket=ce32133769799629ee1f3e3d1c10afb834094c3e&profile=pass
+#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.v1.mk/logo/都市剧场.png" group-title="其他",都市剧场HD
+http://113.227.34.29:9001/stream/channelid/1884837970?ticket=97c512022a32f4d64ab27187305198f955c32e1c&profile=pass
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.v1.mk/logo/乐游.png" group-title="其他",乐游HD
+http://113.227.34.29:9001/stream/channelid/2028675561?ticket=e5bf92a6a7a5b7217399de1e2596086ca9366f7c&profile=pass
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="其他",风云剧场HD
+http://113.227.34.29:9001/stream/channelid/1299242658?ticket=aa3f1da6781760c531540ce7a2ed13e2bf2ca1c5&profile=pass
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="其他",第一剧场HD
+http://113.227.34.29:9001/stream/channelid/1049950753?ticket=c86702811b95cc4c5c63249474dab5459325736b&profile=pass
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="其他",劲爆体育HD
+http://113.227.34.29:9001/stream/channelid/1304460148?ticket=40f3ceb16eadd3075f115bc2f6436e2fa6123d0b&profile=pass
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="其他",风云音乐HD
+http://113.227.34.29:9001/stream/channelid/1014102291?ticket=a05b8e0aa10a2f0dda936d62c4be97b2943cecf4&profile=pass
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="其他",CHC动作电影
+http://113.227.34.29:9001/stream/channelid/1505611850?ticket=e20694077e21664c02f8d90c763d4e15635fa2bd&profile=pass
+#EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="其他",CHC家庭影院
+http://113.227.34.29:9001/stream/channelid/400045679?ticket=3f839e1f604f80e345152f13fc1b6411ee3dabbd&profile=pass
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="其他",CHC影迷电影
+http://113.227.34.29:9001/stream/channelid/370272235?ticket=6e8cab8f771a230005fc82dcf041a15d5822ffda&profile=pass
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="其他",新视觉HD
+http://113.227.34.29:9001/stream/channelid/1768098215?ticket=3753bf93ec28e0dc196bcf0e65e241a50263e233&profile=pass
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="其他",求索纪录HD
+http://113.227.34.29:9001/stream/channelid/1077794983?ticket=8944d92ac175f1323c537ffaacead1635ffd5226&profile=pass
+#EXTINF:-1,tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.v1.mk/logo/精彩影视.png" group-title="其他",精彩影视HD
+http://113.227.34.29:9001/stream/channelid/2059110578?ticket=80136e873490567bb934d881a634a9c2f491179a&profile=pass
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/早期教育.png" group-title="其他",早期教育HD
+http://113.227.34.29:9001/stream/channelid/1560559368?ticket=db20b030aa6ac0dd523986a926da255e8cda2472&profile=pass
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="其他",兵器科技HD
+http://113.227.34.29:9001/stream/channelid/1278864295?ticket=afc4fbfb925260be309129d4445caa3e54f78fdc&profile=pass
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.v1.mk/logo/动漫秀场.png" group-title="其他",动漫秀场HD
+http://113.227.34.29:9001/stream/channelid/1042176961?ticket=25b968b3c7df99d1c3ebe42af002927e2fd7d3d9&profile=pass
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.v1.mk/logo/天元围棋.png" group-title="其他",天元围棋HD
+http://113.227.34.29:9001/stream/channelid/2050523342?ticket=84f733dcd16e73216e9917e3b2859c089df9264f&profile=pass
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="其他",女性时尚HD
+http://113.227.34.29:9001/stream/channelid/744803963?ticket=160ce2e4f5229b1050a1e6da65029c28ec47e15a&profile=pass
+#EXTINF:-1,tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://epg.v1.mk/logo/央视文化精品.png" group-title="央视",央视文化精品HD
+http://113.227.34.29:9001/stream/channelid/758671231?ticket=0667e7943c9e05eec4a17bc1d5b2d44f4fe796c7&profile=pass
+#EXTINF:-1,tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://epg.v1.mk/logo/电视指南.png" group-title="其他",电视指南HD
+http://113.227.34.29:9001/stream/channelid/1828266617?ticket=f85b332545ab4565de72fc2f8b73119d535bc2fd&profile=pass
+#EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="其他",怀旧剧场HD
+http://113.227.34.29:9001/stream/channelid/1249058938?ticket=98630ef0ac7e588530c4c5b33986ef1499b69f1d&profile=pass
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="其他",世界地理HD
+http://113.227.34.29:9001/stream/channelid/623378234?ticket=f7c803e40fefd9dfcfe0cfa9d07c4634f20ddbe9&profile=pass
+#EXTINF:-1,tvg-id="LIVEABC互动英语" tvg-name="LIVEABC互动英语" tvg-logo="https://epg.v1.mk/logo/LIVEABC互动英语.png" group-title="其他",互动电视
+http://113.227.34.29:9001/stream/channelid/510418078?ticket=9cd6daa3503262668ee3908add5395072db19eda&profile=pass
+
+
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
 http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
