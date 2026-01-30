@@ -1,0 +1,13 @@
+{
+  "lives": [
+    {
+      "name": "Youtube直播",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date},https://epg.tv.darwinchow.com/epg.xml.gz",
+      "logo": "https://live.404003.xyz/LOGO/{name}.png",
+      "playerType": 2,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
